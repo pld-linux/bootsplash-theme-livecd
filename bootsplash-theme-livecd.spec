@@ -1,9 +1,9 @@
 
 %define		theme	livecd
 
-Summary:	Bootsplash - PLD black by shad theme
-Summary(de.UTF-8):	Bootsplash - PLD black by shad Thema für Bootsplash
-Summary(pl.UTF-8):	Bootsplash - motyw PLD dark black wg shada
+Summary:	Bootsplash - PLD LiveCD with KDE4 by shadzik theme
+Summary(de.UTF-8):	Bootsplash - PLD LiveCD mit KDE4 by shadzik Thema für Bootsplash
+Summary(pl.UTF-8):	Bootsplash - motyw PLD LiveCD z KDE4 wg shadzika
 Name:		bootsplash-theme-%{theme}
 Version:	1.0
 Release:	1
@@ -24,7 +24,7 @@ PLD LiveCD with KDE4 theme by shadzik for bootsplash.
 PLD LiveCD mit KDE4 by shadzik Thema für Bootsplash.
 
 %description -l pl.UTF-8
-Motyw PLD LiveCD z KDE4 do bootsplash wg. shadzika.
+Motyw PLD LiveCD z KDE4 do bootsplash wg shadzika.
 
 %prep
 %setup -q -c
