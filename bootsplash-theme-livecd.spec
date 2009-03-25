@@ -5,12 +5,12 @@ Summary:	Bootsplash - PLD LiveCD with KDE4 by shadzik theme
 Summary(de.UTF-8):	Bootsplash - PLD LiveCD mit KDE4 by shadzik Thema für Bootsplash
 Summary(pl.UTF-8):	Bootsplash - motyw PLD LiveCD z KDE4 wg shadzika
 Name:		bootsplash-theme-%{theme}
-Version:	1.0
+Version:	1.1
 Release:	1
 License:	GPL v2
 Group:		Themes
 Source0:	http://livecd.pld-linux.pl/%{name}-%{version}.tar.bz2
-# Source0-md5:	f705e0fde16512994b939288ba5f18ea
+# Source0-md5:	310b9d647cf83a57c28b1ccd1456d2cc
 URL:		http://livecd.pld-linux.pl/
 Requires:	bootsplash
 Provides:	bootsplash-theme
